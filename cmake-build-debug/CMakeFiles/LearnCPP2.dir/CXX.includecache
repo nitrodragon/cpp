@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/computer/CLionProjects/LearnCPP2/library.h
+
+C:/Users/computer/CLionProjects/LearnCPP2/main.cpp
+library.h
+C:/Users/computer/CLionProjects/LearnCPP2/library.h
+iostream
+-
+cmath
+-
+ctime
+-
+iomanip
+-
+

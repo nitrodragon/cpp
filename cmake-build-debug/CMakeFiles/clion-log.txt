@@ -1,0 +1,4 @@
+C:\Users\computer\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\171.4694.4\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\computer\CLionProjects\LearnCPP2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/computer/CLionProjects/LearnCPP2/cmake-build-debug
